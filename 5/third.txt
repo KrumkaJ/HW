@@ -1,0 +1,4 @@
+Popov : 45000
+Ivanov : 14000
+Sidorov : 33000
+Sorokin : 10000
