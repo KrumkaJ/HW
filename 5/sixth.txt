@@ -1,0 +1,3 @@
+Cemistry: 50(l) 50(pr) 15(lab)
+Maths: 35(l) 20(lab)
+Sport: 40(pr)
